@@ -5,7 +5,7 @@
     color: #BF40BF;
     margin-left: 20px;
     margin-top: 200px;
-    
+    margin-bottom: 70px;
 
 }
 .team{
@@ -69,6 +69,9 @@ align-items: center;
         
             font-size: 20px;
         }
+        .heading-team{
+          font-size: 35px;}
+      
         
       }
       

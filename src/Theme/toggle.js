@@ -10,8 +10,8 @@ display:block;
 right: 10px;
 justify-content: space-between;
 background: ${({ theme }) => theme.gradient};
-width: 3.8rem;
-height: 3.8rem;
+width: 3.2rem;
+height: 3.2rem;
 margin: 0;
 margin-top:-10px;
 font-size: 0.5rem;
@@ -31,12 +31,12 @@ z-index:2!important;
   img {
     max-width: 2.5rem;
     height: auto;
-    width:40px;
-    height:40px;
+    width:36px;
+    height:36px;
     transition: all 0.3s linear;
     outline: none;
     &:first-child {
-      transform: ${({ lightTheme }) => lightTheme ? 'translateY(-130px)' : 'translateY(0px)'};
+      transform: ${({ lightTheme }) => lightTheme ? 'translateY(-130px)' : 'translateY(-4px)'};
     }
 
     &:nth-child(2) {

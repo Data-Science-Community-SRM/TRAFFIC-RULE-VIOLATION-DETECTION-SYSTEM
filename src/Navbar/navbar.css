@@ -1,7 +1,7 @@
 .navigation{
   background: #8a8a8a;
   overflow: hidden;
-  height: 80px;
+  height: 70px;
   text-align: start;
   font-weight: 400;
  
@@ -12,17 +12,17 @@
   z-index: 1!important;
   }
   .image img{
-    height: 50px;
-    width: 50px;
+    height: 43px;
+    width: 43px;
     position: fixed;
     display: block;
-    margin-top: 8px;
-    margin-left: 110px;
+    margin-top: 9px;
+    margin-left: 100px;
   }
   .dsc{
       font-weight: 600;
       margin-left: 10px;
-      font-size: 48px;
+      font-size: 44px;
       margin-top: -5px;
       padding-right: 40px!important;
       
@@ -37,11 +37,11 @@
     
   }
 .nav-content{
-  margin-top: 16px;
+  margin-top: 12px;
 }
   
   a.nav-links{
-    margin-top: 16px;
+    margin-top: 12px;
   margin-left: 20px;
     font-weight: 400;
     font-size: 31px;
