@@ -15,6 +15,7 @@ const Team = () => {
         <div class="name">Ayush - ML Developer</div>
         <div class="name">Ankita - ML Developer</div>
         <div class="name">Gopalakrishnan V S - Web Developer</div>
+        <div class="name">Ananya - Web Developer</div>
     </div>
     <div class="made">Made with <span class="heart"><i class="fa fa-heart"></i></span> from DSC</div>
 </div>

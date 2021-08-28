@@ -5,7 +5,6 @@ import "./home.css";
 const Home = () => {
   return (
     
-      <div class="home">
         <div id="Home">
           <div class="row mx-auto">
           <div className=" col-lg-6 col-md-12 ">
@@ -25,7 +24,7 @@ const Home = () => {
           </div>
         </div>
         
-      </div>
+     
       
       
       

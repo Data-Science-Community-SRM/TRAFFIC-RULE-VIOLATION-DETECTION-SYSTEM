@@ -55,7 +55,12 @@
   }
   .heading-title{
     font-size: 35px;}
-
+    .submit{
+      font-size: 27px!important;
+    }
+    .custom-file-upload {
+      font-size: 27px!important;
+    }
   
 }
 
@@ -73,17 +78,17 @@ input[type=submit] {
     padding-right: 20px!important;
     cursor: pointer;
     background-color: #BF40BF;
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
 }
 .submit{
     
         border: 1px solid #ccc;
-        padding-left: 70px!important;
-        padding-right: 70px!important;
+        padding-left: 20px!important;
+        padding-right: 20px!important;
         cursor: pointer;
         background-color: #BF40BF;
-        font-size: 30px;
+        font-size: 35px;
         text-align: center;
     
 }

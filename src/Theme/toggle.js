@@ -10,9 +10,8 @@ display:block;
 right: 10px;
 justify-content: space-between;
 background: ${({ theme }) => theme.gradient};
-width: 3.2rem;
-height: 3.2rem;
-margin: 0;
+width: 50px;
+height: 50px;
 margin-top:-10px;
 font-size: 0.5rem;
 padding: 0.5rem;
@@ -20,13 +19,13 @@ overflow: hidden;
 cursor: pointer;
 outline: none;
 border-radius:30px;
-border: 2px solid ${({ theme }) => theme.toggleBorder};
+border: 2px solid ${({ theme }) => theme.body};
 z-index:2!important;
 @media(max-width: 768px){
-  width: 3rem;
-  height: 3rem;
-  margin-top:2px;
-  margin-right:10px;
+  width: 2.8rem;
+  height: 2.8rem;
+  margin-top:1px;
+  margin-right:0px;
   }
   img {
     max-width: 2.5rem;

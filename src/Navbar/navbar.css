@@ -1,15 +1,17 @@
 .navigation{
-  background: #8a8a8a;
+  
   overflow: hidden;
   height: 70px;
   text-align: start;
   font-weight: 400;
+ filter: contrast(0.8);
  
   position: fixed;
   top: -10px;
-  width: 2000px;
+  width: 100%;
   float: left;
   z-index: 1!important;
+  
   }
   .image img{
     height: 43px;
@@ -25,7 +27,8 @@
       font-size: 44px;
       margin-top: -5px;
       padding-right: 40px!important;
-      
+      z-index: 0;
+      filter: contrast(1.5);
   }
     
 
@@ -38,6 +41,7 @@
   }
 .nav-content{
   margin-top: 12px;
+  filter: contrast(1.5);
 }
   
   a.nav-links{
